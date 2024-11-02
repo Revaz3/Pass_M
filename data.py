@@ -1,4 +1,4 @@
 class Data:
     NAME = 'John'
-    EMAIL = 'revaz.mustoyan@yandex.ru'
-    PASSWORD = '1234567'
+    EMAIL = 'revaz.mustoyean4@yandex.ru'
+    PASSWORD = '123423444'
